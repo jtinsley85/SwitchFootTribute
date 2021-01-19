@@ -1,0 +1,14 @@
+{
+  "name": "switchfoottribute",
+  "version": "1.0.0",
+  "description": "Fun static tribute page",
+  "main": "script.js",
+  "scripts": {
+    "start": "tsc -watch"
+  },
+  "author": "Josh Tinsley",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
